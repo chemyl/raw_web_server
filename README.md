@@ -4,4 +4,5 @@
 * Based purely on The Rust Standard Library
 
 ![Rust Version](https://img.shields.io/badge/rust-1.83.0%20-green)
-![Documentation](https://img.shields.io/badge/Documentation-Click_here-blue)
+[![Documentation](https://img.shields.io/badge/Documentation-Click_here-blue)](https://chemyl.github.io/raw_web_server/)
+
